@@ -1,4 +1,4 @@
-# Pro Weather Dashboard
+# Weather Dashboard
 
 A professional-grade weather dashboard built with FastAPI and modern web technologies, featuring comprehensive weather data and stunning visual design.
 
